@@ -1,2 +1,2 @@
-### Hola a todos
-<h1>como estan<h1>
+## Hola a todos ##
+<h3>como estan<h3>
